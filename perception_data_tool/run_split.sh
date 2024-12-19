@@ -1,0 +1,1 @@
+bash accord_start_split_rosbags.sh 2024-12-12-14-20-12.bag ./data/split_bags 22 1733984412.35
